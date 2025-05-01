@@ -58,7 +58,7 @@ st.markdown("""
 st.title("\ud83d\udcdc El Grimorio de las Lenguas")
 st.subheader("Habla, forastero... y los antiguos hechiceros traducir\u00e1n tus palabras.")
 
-image = Image.open('OIG7.jpg')
+image = Image.open('Mago bacano.jpg')
 st.image(image, width=300)
 
 with st.sidebar:
